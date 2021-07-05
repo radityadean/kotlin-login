@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Define the background properties like color etc -->
+    <item android:id="@android:id/background">
+        <shape>
+            <!-- <corners android:radius="5dip" /> -->
+
+            <gradient
+                android:angle="270"
+                android:centerColor="@color/transparent_overlay_20"
+                android:centerY="1.0"
+                android:endColor="@color/transparent_overlay_20"
+                android:startColor="@color/transparent_overlay_20" />
+
+            <corners
+                android:bottomLeftRadius="@dimen/margin_m"
+                android:bottomRightRadius="@dimen/margin_m"
+                android:radius="@dimen/margin_m"
+                android:topLeftRadius="@dimen/margin_m"
+                android:topRightRadius="@dimen/margin_m" />
+        </shape>
+    </item>
+
+    <!-- Define the progress properties like start color, end color etc -->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <!-- <corners android:radius="5dip" /> -->
+
+                <gradient
+                    android:angle="270"
+                    android:centerColor="@color/colorPrimary"
+                    android:centerY="1.0"
+                    android:endColor="@color/colorPrimary"
+                    android:startColor="@color/colorPrimary" />
+
+                <corners
+                    android:bottomLeftRadius="@dimen/margin_m"
+                    android:bottomRightRadius="@dimen/margin_m"
+                    android:radius="@dimen/margin_m"
+                    android:topLeftRadius="@dimen/margin_m"
+                    android:topRightRadius="@dimen/margin_m" />
+
+            </shape>
+
+        </clip>
+    </item>
+
+</layer-list>

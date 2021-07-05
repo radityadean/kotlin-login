@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--<color name="colorPrimary">@color/transparent</color>-->
+    <color name="colorPrimary">#ef7e5e</color>
+
+    <!--ff6600-->
+    <!--<colorora name="colorPrimary">#ED6E45</color>-->
+    <color name="colorPrimaryDark">#317f79</color>
+    <color name="colorPrimaryDarkOld">#A8320c</color>
+
+    <color name="colorPrimaryDark_chat">#399089</color>
+    <color name="colorAccent_chat">#10445a</color>
+
+    <color name="colorPrimaryDark_history">#d7d9d9</color>
+    <color name="colorAccent">@color/color_white</color>
+
+    <color name="colorTransparent">@color/transparent</color>
+    <color name="background_atoz">#d1f0ec</color>
+    <color name="colorBackground">#757575</color>
+    <color name="colorPrimary1st">#d8554a</color>
+    <color name="colorPrimary2nd">#d76747</color>
+    <color name="colorPrimary3rd">#f27956</color>
+
+    <color name="blue_transparent_overlay_20">#503067b2</color>
+    <color name="colorBlue">#3067b2</color>
+    <color name="colorBlueDark">#234091</color>
+
+    <color name="collorblue_url">#FF0645AD</color>
+
+    <color name="colorGreen">#18c8b3</color>
+
+    <color name="color_purple">#FF2e3288</color>
+
+    <!--<color name="color_cream">#FFFFedb1</color>-->
+    <color name="color_gading_trans65">#99F1F2F2</color>
+    <color name="colorbackground_trans75">#AAd1f0ec</color>
+    <color name="colorbackground_trans25">#44d1f0ec</color>
+
+    <color name="background_grey">#edf0f0</color>
+    <color name="colorBlack">#FF000000</color>
+    <color name="colorblacklight">#666666</color>
+    <color name="colorblack_nav">#095f7e</color>
+
+    <color name="color_white_trans75">#AAFFFFFF</color>
+    <color name="color_white_trans50">#88FFFFFF</color>
+    <color name="color_white_trans25">#44FFFFFF</color>
+    <color name="colorGrey_trans75">#AAd2d2d4</color>
+    <color name="colorGrey_trans25">#30d2d2d4</color>
+
+    <color name="color_yellow">#e8e13a</color>
+    <color name="color_yellow_trans25">#AAe9e23b</color>
+    <color name="color_yellow2">#fcff00</color>
+
+    <color name="color_line_border_grey">#B29A9795</color>
+    <color name="color_grey_background">#339A9795</color>
+
+    <color name="colorIndicator">@color/colorBlack</color>
+    <color name="colorGrey">#d2d2d4</color>
+
+    <color name="Transparent">#00FFFFFF</color>
+    <color name="color_white">#FFFFFFFF</color>
+    <color name="color_white_dark">#325f6d</color>
+    <color name="color_indicator_crl">@color/colorAccent</color>
+
+    <!--<color name="color_name_card">#bbee24</color>-->
+    <color name="colorBtnDefault">@color/colorBlue</color>
+    <color name="colorBtnPress">@color/colorBlueDark</color>
+
+    <color name="green_nofocus">#326a6f</color>
+    <color name="font_title">@color/colorBlack</color>
+    <color name="font_white">@color/color_white</color>
+
+    <color name="font_click_1">@color/colorPrimary</color>
+    <color name="font_click_2">@color/colorPrimaryDark</color>
+    <color name="font_hint">#d1d1d1</color>
+    <color name="font_blue">@color/colorBlue</color>
+
+
+    <color name="transparent">#00FFFFFF</color>
+    <color name="transparent_dark">#33000000</color>
+    <color name="transparent_dark_semi">#AA000000</color>
+    <color name="transparent_light">#33FFFFFF</color>
+    <color name="transparent_light_semi">#AAFFFFFF</color>
+    <color name="font_button">#FFFFFF</color>
+
+
+    <color name="dark_gray">#606060</color>
+    <color name="dark_gray_text">#555555</color>
+    <color name="light_gray">#A0A0A0</color>
+    <color name="light_gray_text">#888888</color>
+    <color name="light_gray_background">#F6F6F6</color>
+    <color name="lighter_gray">#AAAAAA</color>
+    <color name="lighter_gray_transparent">#30AAAAAA</color>
+
+
+    <!-- Common items -->
+    <color name="separator">@color/light_gray</color>
+    <color name="separator_light">@color/lighter_gray_transparent</color>
+
+    <!-- Ripple -->
+    <color name="lightRipple">@color/transparent_light</color>
+    <color name="darkRipple">@color/transparent_dark</color>
+    <color name="text_dark">#212121</color>
+    <color name="text_dark_second">#727272</color>
+    <color name="text_dark_transparent">@color/transparent_dark_semi</color>
+    <color name="text_light">#e0e0e0</color>
+    <color name="text_light_transparent">@color/transparent_light_semi</color>
+    <color name="background_activity">@color/light_gray_background</color>
+    <color name="text_orange">#F6A073</color>
+
+    <color name="text_primary">@color/color_white</color>
+    <color name="text_secondary">#e0e0e0</color>
+    <color name="text_inactive">#1b4645</color>
+
+    <color name="apptheme_color">@color/colorBlue</color>
+    <color name="transparent_overlay">#88000000</color>
+    <color name="transparent_overlay_70">#b2000000</color>
+    <color name="transparent_overlay_80">#DD000000</color>
+    <color name="transparent_overlay_50">#88000000</color>
+    <color name="transparent_overlay_20">#30000000</color>
+
+    <!-- Toolbar -->
+    <color name="text_toolbar">@color/dark_gray</color>
+
+    <!--header nav-->
+    <color name="header_nav_start">#abf029</color>
+    <color name="header_nav_center">#bbee24</color>
+    <color name="header_nav_end">#ccec20</color>
+
+
+    <color name="bg_layout_menu">#FFEAEAEA</color>
+    <!--<color name="color_yellow">#ffc81b</color>-->
+    <color name="ko__messenger_floating_foreground_color">@color/colorPrimary</color>
+    <color name="ko__messenger_new_conversation_text_colour">#FFFFFF</color>
+    <color name="ko__messenger_selected_button_background_color">@color/colorPrimary1st</color>
+    <color name="ko__messenger_new_conversation_background_colour">
+        @color/colorPrimary3rd
+    </color>
+    <color name="ko__messenger_primary_color">@color/text_dark</color>
+    <color name="ko__messenger_speech_bubble_other_background_color">#ccec20</color>
+    <color name="ko__messenger_speech_bubble_self_background_color">#ffc81b
+    </color>
+    <color name="colorRed">#ff0000</color>
+
+    <color name="ap_black">#000</color>
+    <color name="ap_charcoal">#111</color>
+    <color name="ap_gray">#888</color>
+    <color name="ap_transparent">#00000000</color>
+    <color name="ap_white">#FFF</color>
+    <color name="off_white">#EEE</color>
+</resources>

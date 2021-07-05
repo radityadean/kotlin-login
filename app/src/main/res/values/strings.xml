@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login MVVM ApiRetrofit</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="layout_text_splash_company_name">PT. Weyland Indonesia Perkasa</string>
+</resources>
