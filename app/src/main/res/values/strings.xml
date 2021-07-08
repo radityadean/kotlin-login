@@ -4,4 +4,8 @@
     <string name="password">Password</string>
     <string name="login">Login</string>
     <string name="layout_text_splash_company_name">PT. Weyland Indonesia Perkasa</string>
+    <string name="message_info_corporate">PT. Weyland Indonesia Perkasa\n
+        Info tentang kami\n
+        http://www.atozpay.co.id
+    </string>
 </resources>

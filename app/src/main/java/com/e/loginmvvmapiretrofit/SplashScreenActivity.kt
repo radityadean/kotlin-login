@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.os.Handler
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
+import com.e.loginmvvmapiretrofit.ui.LoginActivity
 import kotlinx.android.synthetic.main.activity_splash_screen.*
 
 class SplashScreenActivity : AppCompatActivity() {
@@ -19,7 +20,7 @@ class SplashScreenActivity : AppCompatActivity() {
 
         iv_splash_screen.alpha = 0f
         iv_splash_screen.animate().setDuration(2000).alpha(1f).withEndAction {
-            val intent = Intent(this, MainActivity::class.java)
+            val intent = Intent(this, LoginActivity::class.java)
             startActivity(intent)
             finish()
         }

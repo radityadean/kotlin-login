@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/berandaFragment"
+        android:icon="@drawable/ic_menu_bottom_home_default"
+        android:title="Beranda" />
+
+    <item
+        android:id="@+id/transaksiFragment"
+        android:icon="@drawable/ic_menu_bottom_history_default"
+        android:title="Transaksi" />
+
+    <item
+        android:id="@+id/bantuanFragment"
+        android:icon="@drawable/ic_menu_bottom_help_default"
+        android:title="Bantuan" />
+
+    <item
+        android:id="@+id/profilFragment"
+        android:icon="@drawable/ic_menu_bottom_profile_default"
+        android:title="Profil" />
+
+</menu>
