@@ -14,16 +14,6 @@ class BantuanFragment : Fragment(R.layout.fragment_bantuan) {
     private var descList = mutableListOf<String>()
     private var imagesList = mutableListOf<Int>()
 
-//    override fun onCreate(savedInstanceState: Bundle?) {
-//        super.onCreate(savedInstanceState)
-//        setContentView(R.layout.fragment_bantuan)
-//
-//        postTolist()
-//
-//        rv_recyclerView.layoutManager = LinearLayoutManager(this)
-//        rv_recyclerView.adapter = RecyclerAdapter(titleList, descList, imagesList)
-//    }
-
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
@@ -41,7 +31,7 @@ class BantuanFragment : Fragment(R.layout.fragment_bantuan) {
     }
 
     private fun postTolist() {
-        for (i in 1..25) {
+        for (i in 1..3) {
             addToList("Title $i", "Description $i", R.mipmap.ic_launcher_round)
         }
     }

@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txt_info_corp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="@dimen/margin_xl"
+        android:text="@string/message_info_corporate"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_XL"
+        android:textStyle="normal" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_recyclerView"
@@ -12,4 +24,4 @@
         android:layout_alignParentBottom="true"
         tools:listitem="@layout/item_layout" />
 
-</RelativeLayout>
+</LinearLayout>

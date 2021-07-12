@@ -7,7 +7,7 @@ import com.e.loginmvvmapiretrofit.R
 import com.e.loginmvvmapiretrofit.fragments.BantuanFragment
 import com.e.loginmvvmapiretrofit.fragments.ProfilFragment
 import com.e.loginmvvmapiretrofit.fragments.TransaksiFragment
-import kotlinx.android.synthetic.main.bottom_nav.*
+import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
